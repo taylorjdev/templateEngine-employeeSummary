@@ -7,7 +7,7 @@
 ## Description
 A simple app allowing the user to store employee data in easy to read HTML File. User is prompted for information in Node.js based on employee type. 
 
-<img width="1083" alt="Screen Shot 2020-03-17 at 6 15 35 PM" src="https://user-images.githubusercontent.com/57122209/76915673-571ce900-687b-11ea-99ca-2b1b1467882f.png">
+<img width="1078" alt="Screen Shot 2020-03-17 at 6 19 46 PM" src="https://user-images.githubusercontent.com/57122209/76915920-25585200-687c-11ea-95e4-1f1c34b51cdc.png">
 
 
 
